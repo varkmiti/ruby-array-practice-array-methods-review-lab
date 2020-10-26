@@ -19,4 +19,4 @@
 
 [Ruby Docs - Array](http://www.ruby-doc.org/core-2.1.4/Array.html)
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/ruby-intro-to-arrays-lab' title='Introduction To Arrays Lab'>Introduction To Arrays Lab</a> on Learn.co and start learning to code for free.</p>
+
